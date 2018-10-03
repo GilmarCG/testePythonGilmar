@@ -1,0 +1,8 @@
+print ('Olá, mundo!')
+print ("Eu também sou uma mensagem!")
+print ('''...e eu também sou uma mensagem!''')
+print ('Primeira linha.\nSegunda linha.\nTerceira linnha.')
+print ('Esta frase não possui tabulação.')
+print ('\tEsta frase possui tabulação.')
+print ('Esta frase nao possui tabulação')
+print ('\t\t\tEsta frase possui tabulação')
